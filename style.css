@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(140, 127, 112);
+  margin: 0;
+}
+
+.card {
+  border-radius: 25px;
+  width: 350px;
+  height: 550px;
+  margin: 300px;
+  background: #ffe4b8;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 228, 184, 1) 0%,
+    rgba(242, 242, 242, 1) 100%);
+}
+
+#heart {
+    width: 20px;
+    margin: 20 13% 0 87%;
+}
+
+
+#itemPhoto {
+  margin-top: 30px;
+  width: 350px;
+  height: 220px;
+}
+
+
+.description p, h1 {
+    margin: 0;
+}
+
+.description {
+  margin: 0 40px 0 40px;
+  font-family: "Saira", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings: "wdth" 75;
+  color: rgb(79, 78, 78);
+}
+
+.description img {
+    width: 14px;
+    margin: 0px;
+}
+
+.description button {
+    width: 100%;
+    padding: 13px;
+    border-radius: 30px;
+    font-size: large;
+    color: white;
+    background-color: rgb(79, 78, 78);
+}
+
+.description button:hover {
+    cursor: pointer;
+    transition: 450ms;
+    transform: scale(1.04);
+}
+
+
+
+
+
