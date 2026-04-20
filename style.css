@@ -42,6 +42,10 @@ body {
   color: rgb(79, 78, 78);
 }
 
+.description h2 {
+    margin: 15px 0 10px 0;
+}
+
 .description img {
     width: 14px;
     margin: 0px;
@@ -49,6 +53,7 @@ body {
 
 .description button {
     width: 100%;
+    margin-top: 10px;
     padding: 13px;
     border-radius: 30px;
     font-size: large;
